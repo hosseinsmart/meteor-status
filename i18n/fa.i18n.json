@@ -1,0 +1,11 @@
+{
+  "meteor_status_connected": "ارتباط برقرار است",
+  "meteor_status_connecting": "در حال ارتباط...",
+  "meteor_status_failed": "ارتباط با سرور شکست خورد",
+  "meteor_status_waiting": "در حال انتظار برای برقراری ارتباط با سرور،",
+  "meteor_status_offline": "حالت آفلاین.",
+  "meteor_status_reconnect_in": "تلاش دوباره در یک ثانیه...",
+  "meteor_status_reconnect_in_plural": "تلاش دوباره در __count__ seconds ثانیه دیگر...",
+  "meteor_status_try_now_waiting": "هم اکنون",
+  "meteor_status_try_now_offline": "دوباره وصل شوید"
+}
